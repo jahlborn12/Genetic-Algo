@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1386574711 source:c:\users\josh\desktop\genetic algorithm\pather.cpp
+	<iostream>
+	<cstdlib>
+	"pather.h"
+
+1386574361 c:\users\josh\desktop\genetic algorithm\pather.h
+	"btree.h"
+
+1386574710 source:c:\users\josh\desktop\genetic algorithm\genetic.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<time.h>
+	"pather.h"
+
+1386574598 c:\users\josh\desktop\genetic algorithm\btree.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1386574598 source:c:\users\josh\desktop\genetic algorithm\btree.cpp
+	"BTree.h"
+
